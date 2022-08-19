@@ -7,7 +7,7 @@ public class PractiseCoreJava {
 
 		System.out.println(" Practise Core Java ");
 		System.out.println(" Practise Core Java updated checked ");
-		System.out.println(" Practise Core Java updated checked second times");
+		System.out.println(" Practise Core Java updated checked second times ");
 		}
 
 }
