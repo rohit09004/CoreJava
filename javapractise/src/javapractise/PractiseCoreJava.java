@@ -6,6 +6,7 @@ public class PractiseCoreJava {
 		// TODO Auto-generated method stub
 
 		System.out.println(" Practise Core Java ");
+		System.out.println(" Practise Core Java updated checked ");
 		}
 
 }
